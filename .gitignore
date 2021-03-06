@@ -1,0 +1,6 @@
+/.idea
+/venv
+*.jpg
+*.pdf
+*.docx
+/resultados
